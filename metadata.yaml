@@ -1,0 +1,27 @@
+_repo: The-pride-o-the-morning_75867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giberne, Agnes
+    birthdate: 1845
+    deathdate: 1939
+    gutenberg_agent_id: '47772'
+    url: http://www.gutenberg.org/2009/agents/47772
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
+description: ''
+gutenberg_issued: '2025-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75867'
+language: en
+pgterms:marc905: 20250224063644giberne
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bS. W. Partridge & Co., Ltd., $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The pride o' the morning
+url: http://www.gutenberg.org/ebooks/75867
